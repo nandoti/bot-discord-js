@@ -6,3 +6,6 @@
 
 ## npm install discord.js
 
+### Startar o projeto 
+
+## node index.js
